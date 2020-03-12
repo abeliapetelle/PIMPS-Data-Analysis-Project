@@ -9,7 +9,14 @@ PIMS offers a solution to centralise the sales in a single online tool and cross
 
 ## Mission
 
-## Testing solutions 
+My mission was to find a solution to map PIMS’s data with external sources so they could get more insights about their business.
+
+## Final presentation 
+
+https://drive.google.com/file/d/19ah2vXqH30dTsVDW7idsMMlbuJW-7bHE/view?usp=sharing
 
 ## Result
 
+My work permitted:
+- to present a relevant solution to PIMS in order to categorize all their shows present in their catalogue 
+- to enrich PIMS reflection about how they should challenge the way they collect their data
