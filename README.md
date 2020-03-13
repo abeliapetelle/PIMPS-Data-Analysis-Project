@@ -13,8 +13,7 @@ My mission was to find a solution to map PIMS’s data with external sources so 
 
 ## Final presentation 
 
-[![Watch the presentation](/Media/Presentation.png)]
-(https://drive.google.com/file/d/19ah2vXqH30dTsVDW7idsMMlbuJW-7bHE/view?usp=sharing)
+[![Watch the presentation](/Media/Presentation.png)](https://drive.google.com/file/d/19ah2vXqH30dTsVDW7idsMMlbuJW-7bHE/view?usp=sharing)
 
 ## Result
 
